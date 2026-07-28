@@ -1,0 +1,43 @@
+.navbar-size {
+    width: 95%;
+    margin: 0 auto;
+}
+
+nav .brand-logo {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+nav .brand-logo img {
+    display: block;
+    height: 50px;
+}
+
+.main-body {
+    background-color: #3F51B5;
+    color: white;
+    min-height: calc(100vh - 64px);
+    padding-bottom: 40px;
+}
+
+.materialboxed-image {
+    margin: 0 auto;
+    height: 350px;
+}
+
+.add-book-button {
+    background-color: #FF6F61;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card-reveal {
+    color: black;
+}
+
+.card-reveal .card-title,
+.card-reveal p {
+    color: black;
+}
