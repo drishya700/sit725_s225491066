@@ -1,0 +1,14 @@
+{
+  "name": "sit725-2026-t2-prac4",
+  "version": "1.0.0",
+  "description": "SIT725 Task 4.2P - BookNook catalogue backed by MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0"
+  }
+}

@@ -1,0 +1,12 @@
+.book-card {
+  height: 100%;
+}
+
+.book-card .card-image img {
+  height: 220px;
+  object-fit: cover;
+}
+
+.rating-chip {
+  margin-top: 8px;
+}
